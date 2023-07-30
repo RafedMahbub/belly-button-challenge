@@ -1,0 +1,35 @@
+.dropdownOptionCard{
+    padding: 8%;
+}
+.container{
+    margin: 0;
+    margin-bottom: 0;
+}
+.optiontitle{
+    font-size: 70%;
+    font-weight: bold;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.card-header{
+    font-size: 70%;
+    font-weight: bold;
+    color: aliceblue;
+    background-color: rgb(27, 161, 187);
+    padding: 5%;  
+}
+.card-body{
+    font-size: 130%;
+    padding: 5%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+.panel-body{
+    font-size: 180%;
+    padding: 5%;
+    color: rgb(0, 0, 0);
+    background-color: rgb(174, 229, 231);
+}
+.jumbotron{
+    padding: 20px;
+}
